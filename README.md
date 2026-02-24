@@ -10,7 +10,8 @@ This script solves Task 1 of the assignment 2.
 It demonstrates the use of if-else Python concept.
 **How it works:**  
 The program takes integer as input from the user, processes it according to the problem statement, and displays the output.
-
+**How to run**
+python task1.py
 
 # Python Assignment Submission
 
@@ -23,3 +24,6 @@ It demonstrates the use of for loop.
 
 **How it works:**  
 The program process according to the problem statement, and displays the output.
+
+**How to run**
+python task2.py
